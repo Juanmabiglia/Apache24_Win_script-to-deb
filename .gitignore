@@ -1,4 +1,5 @@
 .gitignore
 .DS_Store
 */.DS_Store
-*/*/.DS_Storeo
+*/*/.DS_Store
+*/*/*/.DS_Store
